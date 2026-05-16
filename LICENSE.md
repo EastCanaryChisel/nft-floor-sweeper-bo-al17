@@ -1,4 +1,4 @@
-# 
+# secure NFT Trading Bot for nft floor sweeper bot | trailing-stop & auto-buy offers the most advanced nft floor sweeper bot, with trailing-stop and auto-buy. Ideal for professional
 
 
 
